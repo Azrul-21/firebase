@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064210212781",
+    "firebase_url": "https://simplecrud-8751d.firebaseio.com",
+    "project_id": "simplecrud-8751d",
+    "storage_bucket": "simplecrud-8751d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064210212781:android:8d7bd79b6ecb2117ba6324",
+        "android_client_info": {
+          "package_name": "id.alam.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064210212781-58lgfl37ngfkscdna425lcjfeqibdog1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.alam.firebase",
+            "certificate_hash": "c655d98e5acfa68d70a54db3343df50004df94e4"
+          }
+        },
+        {
+          "client_id": "1064210212781-l60r5mmrsrciegr2oj0q40rf97qg105h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuiIhdyVrneh5Cu9p0yIXyF93e27qOm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064210212781-l60r5mmrsrciegr2oj0q40rf97qg105h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
